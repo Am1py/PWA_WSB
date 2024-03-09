@@ -1,0 +1,15 @@
+{
+    "theme_color" : "#8a623c",
+    "background_color" : "#8a623c",
+    "display" : "fullscreen",
+    "scope" : "/",
+    "start_url" : "/PWA_WSB",
+    "name" : "Blog o pieskach",
+    "short_name" : "dogAPP",
+    "description" : "Projekt WSB - zaawansowane technologie internetowe",
+    "icons": [{
+        "src": "./pies_icon.png",
+        "sizes" : "512x512",
+        "type" : "png"
+    }]
+    }
